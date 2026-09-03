@@ -15,3 +15,5 @@ TeeRex Connect U39 キャンペーンLPの共同編集・確認用リポジト�
 ## 確認方法
 
 公開テストページはGitHub Pagesで確認できる構成にします。
+
+_Last deployment trigger: 2026-09-03_
